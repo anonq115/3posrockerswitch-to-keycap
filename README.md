@@ -3,3 +3,4 @@ a key with 3 stop points, one normal click, a click with enough force that surpa
 third button and again you need enough pressure to surpass the 2nd stop point to access this
 --I FUCKING GOT IT[[[the user press the w but the w does register!!! but if the user presss hard enough and bypasses the stop point it deletes that w specifically and then continues with watever the second button does]]
 just make sure nothing is selected while this is being done cuz u dont want to delete users files and shit.
+---and it does the same thing for the 2nd button, it doesnt count its action or deletes it, if the third stop is met
